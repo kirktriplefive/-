@@ -1,0 +1,6 @@
+@import '~antd/dist/antd.css';
+.Playlists {
+    background: #fff;
+    margin-left: 256px;
+    margin-top: 64px;
+  }
